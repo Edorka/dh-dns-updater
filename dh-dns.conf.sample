@@ -1,0 +1,7 @@
+[dh-dns]
+api_key = SECRETAPIKEY
+domain = sample-host.sampled-domain.com
+pidfile = ./dh-dns.pid
+logfile = ./dh-dns.log
+loglevel = info
+delay = 300
